@@ -1,0 +1,1115 @@
+{
+  "label": "Actions",
+  "entries": {
+    "A Quick Glimpse Beyond": {
+      "name": "A Quick Glimpse Beyond"
+    },
+    "Absorb into the Aegis": {
+      "name": "Absorb into the Aegis"
+    },
+    "Accept Echo": {
+      "name": "Accept Echo"
+    },
+    "Accidental Shot": {
+      "name": "Accidental Shot"
+    },
+    "Act Together": {
+      "name": "Act Together"
+    },
+    "Administer First Aid": {
+      "name": "Administer First Aid"
+    },
+    "Affix a Fulu": {
+      "name": "Affix a Fulu"
+    },
+    "Affix a Talisman": {
+      "name": "Affix a Talisman"
+    },
+    "Aid": {
+      "name": "Aid"
+    },
+    "Airy Step": {
+      "name": "Airy Step"
+    },
+    "Amulet's Abeyance": {
+      "name": "Amulet's Abeyance"
+    },
+    "Anadi Venom": {
+      "name": "Anadi Venom"
+    },
+    "Anchor": {
+      "name": "Anchor"
+    },
+    "Arcane Cascade": {
+      "name": "Arcane Cascade"
+    },
+    "Armor Up!": {
+      "name": "Armor Up!"
+    },
+    "Arrest a Fall": {
+      "name": "Arrest a Fall"
+    },
+    "Assume a Role": {
+      "name": "Assume a Role"
+    },
+    "Automaton Aim": {
+      "name": "Automaton Aim"
+    },
+    "Avert Gaze": {
+      "name": "Avert Gaze"
+    },
+    "Avoid Dire Fate": {
+      "name": "Avoid Dire Fate"
+    },
+    "Avoid Notice": {
+      "name": "Avoid Notice"
+    },
+    "Balance": {
+      "name": "Balance"
+    },
+    "Banshee Cry": {
+      "name": "Banshee Cry"
+    },
+    "Barbed Quills": {
+      "name": "Barbed Quills"
+    },
+    "Base Kinesis": {
+      "name": "Base Kinesis"
+    },
+    "Basic Finisher": {
+      "name": "Basic Finisher"
+    },
+    "Beast's Charge": {
+      "name": "Beast's Charge"
+    },
+    "Bend Time": {
+      "name": "Bend Time"
+    },
+    "Bestial Clarity": {
+      "name": "Bestial Clarity"
+    },
+    "Binding Vow": {
+      "name": "Binding Vow"
+    },
+    "Blizzard Evasion": {
+      "name": "Blizzard Evasion"
+    },
+    "Blood Feast": {
+      "name": "Blood Feast"
+    },
+    "Board": {
+      "name": "Board"
+    },
+    "Boarding Assault": {
+      "name": "Boarding Assault"
+    },
+    "Borrow an Arcane Spell": {
+      "name": "Borrow an Arcane Spell"
+    },
+    "Break Them Down": {
+      "name": "Break Them Down"
+    },
+    "Breath Weapon (Acid) (Cone)": {
+      "name": "Breath Weapon (Acid) (Cone)"
+    },
+    "Breath Weapon (Acid) (Line)": {
+      "name": "Breath Weapon (Acid) (Line)"
+    },
+    "Breath Weapon (Cold) (Cone)": {
+      "name": "Breath Weapon (Cold) (Cone)"
+    },
+    "Breath Weapon (Cold) (Line)": {
+      "name": "Breath Weapon (Cold) (Line)"
+    },
+    "Breath Weapon (Electricity) (Cone)": {
+      "name": "Breath Weapon (Electricity) (Cone)"
+    },
+    "Breath Weapon (Electricity) (Line)": {
+      "name": "Breath Weapon (Electricity) (Line)"
+    },
+    "Breath Weapon (Fire) (Cone)": {
+      "name": "Breath Weapon (Fire) (Cone)"
+    },
+    "Breath Weapon (Fire) (Line)": {
+      "name": "Breath Weapon (Fire) (Line)"
+    },
+    "Breath Weapon (Piercing) (Cone)": {
+      "name": "Breath Weapon (Piercing) (Cone)"
+    },
+    "Breath Weapon (Piercing) (Line)": {
+      "name": "Breath Weapon (Piercing) (Line)"
+    },
+    "Breath Weapon (Poison) (Cone)": {
+      "name": "Breath Weapon (Poison) (Cone)"
+    },
+    "Breath Weapon (Poison) (Line)": {
+      "name": "Breath Weapon (Poison) (Line)"
+    },
+    "Breath Weapon (Riding Drake)": {
+      "name": "Breath Weapon (Riding Drake)"
+    },
+    "Breath Weapon (Void) (Cone)": {
+      "name": "Breath Weapon (Void) (Cone)"
+    },
+    "Breath Weapon (Void) (Line)": {
+      "name": "Breath Weapon (Void) (Line)"
+    },
+    "Bribe Contact": {
+      "name": "Bribe Contact"
+    },
+    "Bullet Dancer Stance": {
+      "name": "Bullet Dancer Stance"
+    },
+    "Bullying Press": {
+      "name": "Bullying Press"
+    },
+    "Burrow": {
+      "name": "Burrow"
+    },
+    "Calculate Threats": {
+      "name": "Calculate Threats"
+    },
+    "Call Companion": {
+      "name": "Call Companion"
+    },
+    "Call Gun": {
+      "name": "Call Gun"
+    },
+    "Call on Ancient Blood": {
+      "name": "Call on Ancient Blood"
+    },
+    "Call to Axis": {
+      "name": "Call to Axis"
+    },
+    "Call Upon the Brightness": {
+      "name": "Call Upon the Brightness"
+    },
+    "Cast a Spell": {
+      "name": "Cast a Spell"
+    },
+    "Catharsis": {
+      "name": "Catharsis"
+    },
+    "Change Shape (Anadi)": {
+      "name": "Change Shape (Anadi)"
+    },
+    "Change Shape (Beastkin)": {
+      "name": "Change Shape (Beastkin)"
+    },
+    "Change Shape (Kitsune)": {
+      "name": "Change Shape (Kitsune)"
+    },
+    "Change Tradition Focus": {
+      "name": "Change Tradition Focus"
+    },
+    "Channel Elements": {
+      "name": "Channel Elements"
+    },
+    "Chaotic Destiny": {
+      "name": "Chaotic Destiny"
+    },
+    "Chassis Deflection": {
+      "name": "Chassis Deflection"
+    },
+    "Cleanse Soul Path": {
+      "name": "Cleanse Soul Path"
+    },
+    "Clear a Path": {
+      "name": "Clear a Path"
+    },
+    "Climb": {
+      "name": "Climb"
+    },
+    "Clue In": {
+      "name": "Clue In"
+    },
+    "Coerce": {
+      "name": "Coerce"
+    },
+    "Collect Spirit Remnant": {
+      "name": "Collect Spirit Remnant"
+    },
+    "Command an Animal": {
+      "name": "Command an Animal"
+    },
+    "Compose Missive": {
+      "name": "Compose Missive"
+    },
+    "Conceal an Object": {
+      "name": "Conceal an Object"
+    },
+    "Conduct Energy": {
+      "name": "Conduct Energy"
+    },
+    "Confident Finisher": {
+      "name": "Confident Finisher"
+    },
+    "Conjure Bullet": {
+      "name": "Conjure Bullet"
+    },
+    "Consume Flesh": {
+      "name": "Consume Flesh"
+    },
+    "Coughing Dragon": {
+      "name": "Coughing Dragon"
+    },
+    "Cover Tracks": {
+      "name": "Cover Tracks"
+    },
+    "Covered Reload": {
+      "name": "Covered Reload"
+    },
+    "Craft": {
+      "name": "Craft"
+    },
+    "Craft Disharmonic Instrument": {
+      "name": "Craft Disharmonic Instrument"
+    },
+    "Cram": {
+      "name": "Cram"
+    },
+    "Crawl": {
+      "name": "Crawl"
+    },
+    "Create a Diversion": {
+      "name": "Create a Diversion"
+    },
+    "Create Forgery": {
+      "name": "Create Forgery"
+    },
+    "Daydream Trance": {
+      "name": "Daydream Trance"
+    },
+    "De-Animating Gestures (False)": {
+      "name": "De-Animating Gestures (False)"
+    },
+    "De-Animating Gestures (True)": {
+      "name": "De-Animating Gestures (True)"
+    },
+    "Debilitating Strike": {
+      "name": "Debilitating Strike"
+    },
+    "Deceptive Sidestep": {
+      "name": "Deceptive Sidestep"
+    },
+    "Decipher Writing": {
+      "name": "Decipher Writing"
+    },
+    "Decompose": {
+      "name": "Decompose"
+    },
+    "Deconstruct": {
+      "name": "Deconstruct"
+    },
+    "Defend": {
+      "name": "Defend"
+    },
+    "Defend Life": {
+      "name": "Defend Life"
+    },
+    "Delay": {
+      "name": "Delay"
+    },
+    "Demoralize": {
+      "name": "Demoralize"
+    },
+    "Destructive Vengeance": {
+      "name": "Destructive Vengeance"
+    },
+    "Detect Magic": {
+      "name": "Detect Magic"
+    },
+    "Devise a Stratagem": {
+      "name": "Devise a Stratagem"
+    },
+    "Disable a Device": {
+      "name": "Disable a Device"
+    },
+    "Disarm": {
+      "name": "Disarm"
+    },
+    "Discover": {
+      "name": "Discover"
+    },
+    "Dismiss": {
+      "name": "Dismiss"
+    },
+    "Dispelling Bullet": {
+      "name": "Dispelling Bullet"
+    },
+    "Divert Lightning": {
+      "name": "Divert Lightning"
+    },
+    "Draconic Frenzy": {
+      "name": "Draconic Frenzy"
+    },
+    "Dragon Breath": {
+      "name": "Dragon Breath"
+    },
+    "Drain Bonded Item": {
+      "name": "Drain Bonded Item"
+    },
+    "Drain Familiar": {
+      "name": "Drain Familiar"
+    },
+    "Drain Life": {
+      "name": "Drain Life"
+    },
+    "Dream Research": {
+      "name": "Dream Research"
+    },
+    "Drifter's Wake": {
+      "name": "Drifter's Wake"
+    },
+    "Drink Blood": {
+      "name": "Drink Blood"
+    },
+    "Drink from the Chalice": {
+      "name": "Drink from the Chalice"
+    },
+    "Drive": {
+      "name": "Drive"
+    },
+    "Drop Prone": {
+      "name": "Drop Prone"
+    },
+    "Dueling Counter": {
+      "name": "Dueling Counter"
+    },
+    "Dutiful Retaliation": {
+      "name": "Dutiful Retaliation"
+    },
+    "Earn Income": {
+      "name": "Earn Income"
+    },
+    "Eldritch Shot": {
+      "name": "Eldritch Shot"
+    },
+    "Elemental Blast": {
+      "name": "Elemental Blast"
+    },
+    "Empty Vessel": {
+      "name": "Empty Vessel"
+    },
+    "Encouraging Words": {
+      "name": "Encouraging Words"
+    },
+    "Energy Emanation (Acid)": {
+      "name": "Energy Emanation (Acid)"
+    },
+    "Energy Emanation (Cold)": {
+      "name": "Energy Emanation (Cold)"
+    },
+    "Energy Emanation (Electricity)": {
+      "name": "Energy Emanation (Electricity)"
+    },
+    "Energy Emanation (Fire)": {
+      "name": "Energy Emanation (Fire)"
+    },
+    "Energy Shot": {
+      "name": "Energy Shot"
+    },
+    "Entity's Resurgence": {
+      "name": "Entity's Resurgence"
+    },
+    "Envenom": {
+      "name": "Envenom"
+    },
+    "Escape": {
+      "name": "Escape"
+    },
+    "Expeditious Inspection": {
+      "name": "Expeditious Inspection"
+    },
+    "Expel Maelstrom": {
+      "name": "Expel Maelstrom"
+    },
+    "Explode": {
+      "name": "Explode"
+    },
+    "Exploit Vulnerability": {
+      "name": "Exploit Vulnerability"
+    },
+    "Extract Element": {
+      "name": "Extract Element"
+    },
+    "Fade Into Daydreams": {
+      "name": "Fade Into Daydreams"
+    },
+    "Fated Not to Die": {
+      "name": "Fated Not to Die"
+    },
+    "Feint": {
+      "name": "Feint"
+    },
+    "Fey's Fortune": {
+      "name": "Fey's Fortune"
+    },
+    "Field of Roots": {
+      "name": "Field of Roots"
+    },
+    "Fight with Fear": {
+      "name": "Fight with Fear"
+    },
+    "Final Spite": {
+      "name": "Final Spite"
+    },
+    "Final Surge": {
+      "name": "Final Surge"
+    },
+    "Find Fault": {
+      "name": "Find Fault"
+    },
+    "Finish The Job": {
+      "name": "Finish The Job"
+    },
+    "Fire in the Hole": {
+      "name": "Fire in the Hole"
+    },
+    "Fling Magic": {
+      "name": "Fling Magic"
+    },
+    "Flurry of Blows": {
+      "name": "Flurry of Blows"
+    },
+    "Fly": {
+      "name": "Fly"
+    },
+    "Follow the Expert": {
+      "name": "Follow the Expert"
+    },
+    "Force Open": {
+      "name": "Force Open"
+    },
+    "Foresight": {
+      "name": "Foresight"
+    },
+    "Forge Documents": {
+      "name": "Forge Documents"
+    },
+    "Fortify Camp": {
+      "name": "Fortify Camp"
+    },
+    "Furious Strike": {
+      "name": "Furious Strike"
+    },
+    "Gain Contact": {
+      "name": "Gain Contact"
+    },
+    "Gallop": {
+      "name": "Gallop"
+    },
+    "Gather Information": {
+      "name": "Gather Information"
+    },
+    "Ghost Shot": {
+      "name": "Ghost Shot"
+    },
+    "Glimpse of Redemption": {
+      "name": "Glimpse of Redemption"
+    },
+    "Glimpse Vulnerability": {
+      "name": "Glimpse Vulnerability"
+    },
+    "Goblin Jubilee": {
+      "name": "Goblin Jubilee"
+    },
+    "Gossip": {
+      "name": "Gossip"
+    },
+    "Grab an Edge": {
+      "name": "Grab an Edge"
+    },
+    "Grapple": {
+      "name": "Grapple"
+    },
+    "Grim Swagger": {
+      "name": "Grim Swagger"
+    },
+    "Grow": {
+      "name": "Grow"
+    },
+    "Harrow the Fiend": {
+      "name": "Harrow the Fiend"
+    },
+    "Harvest Heartsliver": {
+      "name": "Harvest Heartsliver"
+    },
+    "Hide": {
+      "name": "Hide"
+    },
+    "High Jump": {
+      "name": "High Jump"
+    },
+    "Host Spirit": {
+      "name": "Host Spirit"
+    },
+    "Hunt Prey": {
+      "name": "Hunt Prey"
+    },
+    "Hustle": {
+      "name": "Hustle"
+    },
+    "Identify Alchemy": {
+      "name": "Identify Alchemy"
+    },
+    "Identify Magic": {
+      "name": "Identify Magic"
+    },
+    "Impersonate": {
+      "name": "Impersonate"
+    },
+    "Implement's Interruption": {
+      "name": "Implement's Interruption"
+    },
+    "Indomitable Act": {
+      "name": "Indomitable Act"
+    },
+    "Influence": {
+      "name": "Influence"
+    },
+    "Inspired Stratagem": {
+      "name": "Inspired Stratagem"
+    },
+    "Instinctive Obfuscation": {
+      "name": "Instinctive Obfuscation"
+    },
+    "Intensify Vulnerability": {
+      "name": "Intensify Vulnerability"
+    },
+    "Interact": {
+      "name": "Interact"
+    },
+    "Into the Fray": {
+      "name": "Into the Fray"
+    },
+    "Invest an Item": {
+      "name": "Invest an Item"
+    },
+    "Investigate": {
+      "name": "Investigate"
+    },
+    "Invigorating Fear": {
+      "name": "Invigorating Fear"
+    },
+    "Invoke Celestial Privilege": {
+      "name": "Invoke Celestial Privilege"
+    },
+    "Iron Command": {
+      "name": "Iron Command"
+    },
+    "Jinx": {
+      "name": "Jinx"
+    },
+    "Jumping Jenny": {
+      "name": "Jumping Jenny"
+    },
+    "Launch Fireworks Display": {
+      "name": "Launch Fireworks Display"
+    },
+    "Lay Down Arms": {
+      "name": "Lay Down Arms"
+    },
+    "Leap": {
+      "name": "Leap"
+    },
+    "Learn a Spell": {
+      "name": "Learn a Spell"
+    },
+    "Learn Name": {
+      "name": "Learn Name"
+    },
+    "Liberating Step": {
+      "name": "Liberating Step"
+    },
+    "Lie": {
+      "name": "Lie"
+    },
+    "Life Block": {
+      "name": "Life Block"
+    },
+    "Living Fortification": {
+      "name": "Living Fortification"
+    },
+    "Long Jump": {
+      "name": "Long Jump"
+    },
+    "Long-Term Rest": {
+      "name": "Long-Term Rest"
+    },
+    "Lucky Break": {
+      "name": "Lucky Break"
+    },
+    "Make an Impression": {
+      "name": "Make an Impression"
+    },
+    "Maneuver in Flight": {
+      "name": "Maneuver in Flight"
+    },
+    "Manifest Eidolon": {
+      "name": "Manifest Eidolon"
+    },
+    "Manifest Soulforged Armament": {
+      "name": "Manifest Soulforged Armament"
+    },
+    "Map the Area": {
+      "name": "Map the Area"
+    },
+    "Mark for Death": {
+      "name": "Mark for Death"
+    },
+    "Master Strike": {
+      "name": "Master Strike"
+    },
+    "Mesmerizing Performance": {
+      "name": "Mesmerizing Performance"
+    },
+    "Mighty Rage": {
+      "name": "Mighty Rage"
+    },
+    "Mirror-Trickery": {
+      "name": "Mirror-Trickery"
+    },
+    "Mirror's Reflection": {
+      "name": "Mirror's Reflection"
+    },
+    "Mist Blending": {
+      "name": "Mist Blending"
+    },
+    "Mount": {
+      "name": "Mount"
+    },
+    "Mutagenic Flashback": {
+      "name": "Mutagenic Flashback"
+    },
+    "Objection": {
+      "name": "Objection"
+    },
+    "One Shot, One Kill": {
+      "name": "One Shot, One Kill"
+    },
+    "Opportune Riposte": {
+      "name": "Opportune Riposte"
+    },
+    "Overdrive": {
+      "name": "Overdrive"
+    },
+    "Overload Vision": {
+      "name": "Overload Vision"
+    },
+    "Pacifying Infusion": {
+      "name": "Pacifying Infusion"
+    },
+    "Palm an Object": {
+      "name": "Palm an Object"
+    },
+    "Patron's Claim": {
+      "name": "Patron's Claim"
+    },
+    "Patron's Presence": {
+      "name": "Patron's Presence"
+    },
+    "Perform": {
+      "name": "Perform"
+    },
+    "Pick a Lock": {
+      "name": "Pick a Lock"
+    },
+    "Pistolero's Retort": {
+      "name": "Pistolero's Retort"
+    },
+    "Point Out": {
+      "name": "Point Out"
+    },
+    "Pointed Question": {
+      "name": "Pointed Question"
+    },
+    "Practical Research": {
+      "name": "Practical Research"
+    },
+    "Primal Howl": {
+      "name": "Primal Howl"
+    },
+    "Primal Roar": {
+      "name": "Primal Roar"
+    },
+    "Prophecy's Pawn": {
+      "name": "Prophecy's Pawn"
+    },
+    "Prove Peace": {
+      "name": "Prove Peace"
+    },
+    "Psychic Defense": {
+      "name": "Psychic Defense"
+    },
+    "Psychometric Assessment": {
+      "name": "Psychometric Assessment"
+    },
+    "Pursue a Lead": {
+      "name": "Pursue a Lead"
+    },
+    "Quick Alchemy": {
+      "name": "Quick Alchemy"
+    },
+    "Quick Tincture": {
+      "name": "Quick Tincture"
+    },
+    "Raconteur's Reload": {
+      "name": "Raconteur's Reload"
+    },
+    "Rage": {
+      "name": "Rage"
+    },
+    "Raise a Shield": {
+      "name": "Raise a Shield"
+    },
+    "Raise Neck": {
+      "name": "Raise Neck"
+    },
+    "Rally": {
+      "name": "Rally"
+    },
+    "Rampaging Ferocity": {
+      "name": "Rampaging Ferocity"
+    },
+    "Reactive Strike": {
+      "name": "Reactive Strike"
+    },
+    "Ready": {
+      "name": "Ready"
+    },
+    "Recall Ammunition": {
+      "name": "Recall Ammunition"
+    },
+    "Recall Knowledge": {
+      "name": "Recall Knowledge"
+    },
+    "Recall the Teachings": {
+      "name": "Recall the Teachings"
+    },
+    "Recall Under Pressure": {
+      "name": "Recall Under Pressure"
+    },
+    "Recenter": {
+      "name": "Recenter"
+    },
+    "Reclaim Destiny": {
+      "name": "Reclaim Destiny"
+    },
+    "Reconnoiter": {
+      "name": "Reconnoiter"
+    },
+    "Refocus": {
+      "name": "Refocus"
+    },
+    "Release": {
+      "name": "Release"
+    },
+    "Reloading Strike": {
+      "name": "Reloading Strike"
+    },
+    "Repair": {
+      "name": "Repair"
+    },
+    "Repeat a Spell": {
+      "name": "Repeat a Spell"
+    },
+    "Reposition": {
+      "name": "Reposition"
+    },
+    "Request": {
+      "name": "Request"
+    },
+    "Research": {
+      "name": "Research"
+    },
+    "Resist Elf Magic": {
+      "name": "Resist Elf Magic"
+    },
+    "Resist Magic": {
+      "name": "Resist Magic"
+    },
+    "Restore the Mind": {
+      "name": "Restore the Mind"
+    },
+    "Retraining": {
+      "name": "Retraining"
+    },
+    "Retributive Strike": {
+      "name": "Retributive Strike"
+    },
+    "Ring Bell": {
+      "name": "Ring Bell"
+    },
+    "Run Over": {
+      "name": "Run Over"
+    },
+    "Salt Wound": {
+      "name": "Salt Wound"
+    },
+    "Scout": {
+      "name": "Scout"
+    },
+    "Scout Location": {
+      "name": "Scout Location"
+    },
+    "Screaming Skull": {
+      "name": "Screaming Skull"
+    },
+    "Search": {
+      "name": "Search"
+    },
+    "Secure Disguises": {
+      "name": "Secure Disguises"
+    },
+    "Seek": {
+      "name": "Seek"
+    },
+    "Seething Frenzy": {
+      "name": "Seething Frenzy"
+    },
+    "Selfish Shield": {
+      "name": "Selfish Shield"
+    },
+    "Sense Direction": {
+      "name": "Sense Direction"
+    },
+    "Sense Motive": {
+      "name": "Sense Motive"
+    },
+    "Sense Weakness": {
+      "name": "Sense Weakness"
+    },
+    "Set Explosives": {
+      "name": "Set Explosives"
+    },
+    "Set Free": {
+      "name": "Set Free"
+    },
+    "Settle Emotions": {
+      "name": "Settle Emotions"
+    },
+    "Sever Conduit": {
+      "name": "Sever Conduit"
+    },
+    "Shadow Step": {
+      "name": "Shadow Step"
+    },
+    "Shake It Off": {
+      "name": "Shake It Off"
+    },
+    "Share Life": {
+      "name": "Share Life"
+    },
+    "Share Senses": {
+      "name": "Share Senses"
+    },
+    "Shatter Glass": {
+      "name": "Shatter Glass"
+    },
+    "Shed Spirit": {
+      "name": "Shed Spirit"
+    },
+    "Shove": {
+      "name": "Shove"
+    },
+    "Siegebreaker": {
+      "name": "Siegebreaker"
+    },
+    "Slayer's Identification": {
+      "name": "Slayer's Identification"
+    },
+    "Smoke Blending": {
+      "name": "Smoke Blending"
+    },
+    "Sneak": {
+      "name": "Sneak"
+    },
+    "Soaring Flight": {
+      "name": "Soaring Flight"
+    },
+    "Spellsling": {
+      "name": "Spellsling"
+    },
+    "Spellstrike": {
+      "name": "Spellstrike"
+    },
+    "Spin Tale": {
+      "name": "Spin Tale"
+    },
+    "Spinning Crush": {
+      "name": "Spinning Crush"
+    },
+    "Spirit's Mercy": {
+      "name": "Spirit's Mercy"
+    },
+    "Spiritual Aid": {
+      "name": "Spiritual Aid"
+    },
+    "Spring the Trap": {
+      "name": "Spring the Trap"
+    },
+    "Squeeze": {
+      "name": "Squeeze"
+    },
+    "Stand": {
+      "name": "Stand"
+    },
+    "Steal": {
+      "name": "Steal"
+    },
+    "Steel Your Resolve": {
+      "name": "Steel Your Resolve"
+    },
+    "Stellar Misfortune": {
+      "name": "Stellar Misfortune"
+    },
+    "Step": {
+      "name": "Step"
+    },
+    "Stitching Strike": {
+      "name": "Stitching Strike"
+    },
+    "Stonestrike Stance": {
+      "name": "Stonestrike Stance"
+    },
+    "Stop": {
+      "name": "Stop"
+    },
+    "Stride": {
+      "name": "Stride"
+    },
+    "Strike": {
+      "name": "Strike"
+    },
+    "Study": {
+      "name": "Study"
+    },
+    "Subsist": {
+      "name": "Subsist"
+    },
+    "Sustain": {
+      "name": "Sustain"
+    },
+    "Swim": {
+      "name": "Swim"
+    },
+    "Tail Toxin": {
+      "name": "Tail Toxin"
+    },
+    "Take a Breather": {
+      "name": "Take a Breather"
+    },
+    "Take a Taste": {
+      "name": "Take a Taste"
+    },
+    "Take Control": {
+      "name": "Take Control"
+    },
+    "Take Cover": {
+      "name": "Take Cover"
+    },
+    "Tap Ley Line": {
+      "name": "Tap Ley Line"
+    },
+    "Telekinetic Assault": {
+      "name": "Telekinetic Assault"
+    },
+    "Ten Paces": {
+      "name": "Ten Paces"
+    },
+    "Tenacious Stance": {
+      "name": "Tenacious Stance"
+    },
+    "Tendril Strike": {
+      "name": "Tendril Strike"
+    },
+    "That's My Number": {
+      "name": "That's My Number"
+    },
+    "Thermal Eruption": {
+      "name": "Thermal Eruption"
+    },
+    "Thoughtful Reload": {
+      "name": "Thoughtful Reload"
+    },
+    "Threatening Approach": {
+      "name": "Threatening Approach"
+    },
+    "Thundering Roar": {
+      "name": "Thundering Roar"
+    },
+    "Touch and Go": {
+      "name": "Touch and Go"
+    },
+    "Toxic Skin": {
+      "name": "Toxic Skin"
+    },
+    "Toxic Touch": {
+      "name": "Toxic Touch"
+    },
+    "Track": {
+      "name": "Track"
+    },
+    "Travel": {
+      "name": "Travel"
+    },
+    "Treat Disease": {
+      "name": "Treat Disease"
+    },
+    "Treat Poison": {
+      "name": "Treat Poison"
+    },
+    "Treat Wounds": {
+      "name": "Treat Wounds"
+    },
+    "Trip": {
+      "name": "Trip"
+    },
+    "True Shapeshift": {
+      "name": "True Shapeshift"
+    },
+    "Tumble Through": {
+      "name": "Tumble Through"
+    },
+    "Unleash Psyche": {
+      "name": "Unleash Psyche"
+    },
+    "Upstage": {
+      "name": "Upstage"
+    },
+    "Venom Draw": {
+      "name": "Venom Draw"
+    },
+    "Verdant Rest": {
+      "name": "Verdant Rest"
+    },
+    "Visions of Sin": {
+      "name": "Visions of Sin"
+    },
+    "Vital Shot": {
+      "name": "Vital Shot"
+    },
+    "Warding Sign": {
+      "name": "Warding Sign"
+    },
+    "Water Transfer": {
+      "name": "Water Transfer"
+    },
+    "Whirlwind Maul": {
+      "name": "Whirlwind Maul"
+    },
+    "Wicked Thorns": {
+      "name": "Wicked Thorns"
+    },
+    "Wind Them Up": {
+      "name": "Wind Them Up"
+    },
+    "Wish for Luck": {
+      "name": "Wish for Luck"
+    },
+    "Wyrm's Breath": {
+      "name": "Wyrm's Breath"
+    }
+  }
+}
